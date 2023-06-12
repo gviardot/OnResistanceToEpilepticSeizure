@@ -1,4 +1,4 @@
-# FormsOfResistance
+FormsOfResistance
 This folder cotains companion data for a non-yet accepted publication
 1/ Data
 Data from three recording are stored on 16-bit integers at 256Hz.
