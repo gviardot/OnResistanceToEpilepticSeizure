@@ -1,4 +1,4 @@
-FormsOfResistance
+OnResistancetoEpilepticSeizure
 
 This folder cotains companion data for a non-yet accepted publication
 
